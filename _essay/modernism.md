@@ -69,7 +69,7 @@ New-ish features included: unsupervised group-study rooms; soundproof rooms with
 Moving in the library's 157,000 books and 530,000 documents required weeks &#151; "one of the biggest wholesale operations in the [university's] history," noted the <i>Daily Idahonian</i>. A crew of 30 men worked two eight-hour shifts daily. Concurrently, many thousands of index and file cards had to be updated for the new location.
         
 {% caption inthenews %}
-**Staff in the news**
+### Staff in the news
 
 **March 1963** The <i>Idahonian</i> chronicles attempts by three librarians (Robert Burns, Paul Conditt and George Kellogg) to complete a "50-Mile Hike" (a craze at the time popularized by President John Kennedy, the Cuban Missile Crisis, and a national sense of "preparedness"). Footsore, they quit about halfway, at Genesee. "Book Hustlers Just Softies," reports the <i>Idahonian</i>.
 
