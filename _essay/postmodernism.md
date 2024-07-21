@@ -97,11 +97,11 @@ ANSWER: Problem is, them suckers cain't read.
 {% endcapture %}
 {% include feature/card.html text=cube %}
 
-{% include feature/image.html objectid="graphix/cardcatopt.gif" alt="card catalog" %}
+{% include feature/image.html objectid="/objects/cardcatopt.gif" alt="card catalog" %}
  
 Despite the library's many high-tech and low-tech advances, the major goal remained an automated catalog to replace the card catalog. As it had grown, the card catalog had become gargantuan, as well as expensive &#151; labor-intensive &#151; to maintain, requiring the typing and filing of some 200,000 cards annually. &quot;The card catalog is a complex tool, and the larger it grows, the more difficult it becomes to use,&quot; noted Owens. As well, &quot;we have run out of space in which to accommodate its growth without expensive remodelling.&quot;
 
-{% include feature/image.html objectid="graphix/catalogopt.gif" caption="Book-hunting, the old way." alt="person pulling out a card catalog drawer" %}
+{% include feature/image.html objectid="/objects/catalogopt.gif" caption="Book-hunting, the old way." alt="person pulling out a card catalog drawer" %}
 
 Computers had been finding their way into the library for years. Circulation functions were becoming computer-automated. December 1976 saw the library's first <i>publicly accessible</i> computer installed in the Social Sciences division, for educational research. But the first real progress on the long road toward today's Web-accessible online catalog came with the library's joining the Washington Library Network (WLN) in July 1979. This added the library's holdings to a computerized &quot;union catalog,&quot; which contained the holdings of 60 libraries across the Pacific Northwest. Moreover, this catalog could be printed at regular intervals onto microfiche sheets, which were readable on a microfiche reader installed in the library's lobby. From this point on, library staff began recording data about the library's holdings on computer instead of on 3&quot; by 5&quot; cards. The days of the card catalog, which M. Belle Sweet had begun in 1909, were numbered. However, &quot;becoming a WLN participant was, very simply, a matter of our survival,&quot; noted Owens.
 
@@ -161,9 +161,9 @@ The May 1991 Bookmark unveiled details of the $12.9-million (66,000 sf) renovati
 
 UI president Elisabeth Zinser had urged enhancements to the original plans. &quot;It's particularly important for the library to be one of the most respected buildings on campus,&quot; she told reporters. The new design was also intended to bridge the gap between the older collegiate-gothic style buildings of the central campus and the more modern western campus. Private funding was solicited for the architectural enhancements as well as landscaping and new furnishings.
 
-{% include feature/image.html objectid="graphix/toweropt.gif" caption="The clocktower, set at an angle to the rest of the building, would house the staircase and elevator." %}
+{% include feature/image.html objectid="/objects/toweropt.gif" caption="The clocktower, set at an angle to the rest of the building, would house the staircase and elevator." %}
 
-{% include feature/image.html objectid="graphix/vestibuleopt.gif" caption="The north-wall addition integrated the circulation and reserves units, and introduced a curvilinear lounge &#151; popularly known as &quot;the bubble&quot; &#151; to be open 24 hours daily." %}
+{% include feature/image.html objectid="/objects/vestibuleopt.gif" caption="The north-wall addition integrated the circulation and reserves units, and introduced a curvilinear lounge &#151; popularly known as &quot;the bubble&quot; &#151; to be open 24 hours daily." %}
 
 {% include feature/image.html objectid="history028;history029" %}
 

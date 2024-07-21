@@ -35,6 +35,6 @@ New rules in 1899 allowed students to take books out &#151; provided they left a
 
 The library soon grew to include a second, adjacent room &#151; a reading room, to augment the original room which housed the collection. McCallie also added a rack designed for magazines and newspapers, and began cross-cataloging the collection with subject headings.
 
-{% include feature/image.html objectid="../images/womanscholar.gif" alt="historic image of woman studying a book" %}
+{% include feature/image.html objectid="/objects/womanscholar.gif" alt="historic image of woman studying a book" %}
 
 McCallie resigned in October 1905 to continue her graduate work in Chicago.

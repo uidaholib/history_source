@@ -25,16 +25,16 @@ Borrowing a typewriter for half-days, she wrote some 340 letters to authors, pub
 
 {% include feature/blockquote.html quote="The loss includes the entire library of about 12,000 volumes. As our loss is very heavy for so young an institution and state, we are asking for help, especially for the library." source="M. Belle Sweet, in an April 1906 letter to the Library Journal" %}
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/afterthefire/images/shorthistoryopt.gif" alt="book cover showing title Short History of the English People" caption="1903 edition purchased by M. Belle Sweet" %}
+{% include feature/image.html objectid="/objects/shorthistoryopt.gif" alt="book cover showing title Short History of the English People" caption="1903 edition purchased by M. Belle Sweet" %}
 
 The library needed essential works, and Sweet used the money to lay the foundations of a well-rounded collection. The gift from St. Maries, for example, was used to purchase historical works such as Gibbon's <i>History of the Decline and Fall of the Roman Empire</i>, <i>Cambridge Modern History</i> and Green's <i>Short History of the English People</i>. Other monies bought <i>Webster's New International Dictionary</i>, <i>Dictionary of National Biography</i> and the <i>Encyclopedia Britannica</i>. And in her June 1907 annual report, Sweet asked president MacLean for funds:
 
 {% include feature/blockquote.html quote="In the past the University Library has contained few works of general culture. Many of our students come from isolated districts and have not had the advantage of access to an abundance of good literature. For this reason, our library should provide books of general interest more than do the libraries of universities which are situated in the older and more thickly populated states. I think it would be well if a definite part of the available funds could be set aside for the purchase of such books." %}
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/afterthefire/images/gibbonopt.gif" alt="book spine showing title Gibbon's Roman Empire" %}
+{% include feature/image.html objectid="/objects/gibbonopt.gif" alt="book spine showing title Gibbon's Roman Empire" %}
 
 But the library was beginning to rebound through the efforts of Sweet and numerous benefactors, such as William E. Borah, and by this time contained 3,200 books and 7,000 U.S. Government documents, not to mention 101 periodical and 50 (mostly Idaho) newspaper subscriptions. History, literature and economics were the strongest areas, while sciences and languages remained weak.
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/afterthefire/images/scholaropt.gif" alt="historic image of man studying a book" %}
+{% include feature/image.html objectid="/objects/scholaropt.gif" alt="historic image of man studying a book" %}
 
 During the 1906-07 academic year, the library loaned out 1,429 books &#151; considerably more than during 1905-06. But the lending system was cumbersome, mainly because the library still lacked a full card catalog. Sweet asked for an assistant librarian to do the cataloging. And for 1907-08 the library's budget jumped to $9,000 &#151; an increase of $7,500 over the previous year &#151; to help the library rebuild. Thus autumn 1907 represented the start of a new era for the library, which moved into Morrill Hall. Fourteen bookcases were placed in the main reading room, 13 in the documents section, and eight in the hallway. Although crowded, the reading room could accommodate seven tables and 80 readers. And hours increased to 8 to 5 weekdays and 9 to 3 Saturdays.

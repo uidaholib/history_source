@@ -17,11 +17,11 @@ The campus community was proud of its new library, which was well-lighted and ve
 
 The pace picked up, however, in fall 1913 when the library acquired another professional position &#151; filled by Miss Ida Wolf, a graduate of Drexel Institute, Philadelphia. Wolf had had several years' cataloging experience at the Iowa State Normal School in Cedar Rapids, IA, and began serious work on cataloging and classifying the library's collection into the Dewey Decimal system. (As recently as the 1990s, the library would refer to its online catalog as &quot;Ida.&quot;)
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/takingroot/images/clockopt.gif" alt="old clock face" %}
+{% include feature/image.html objectid="/objects/clockopt.gif" alt="old clock face" %}
 
 Wolf's arrival also enabled the library to extend its hours &#151; as students and faculty had been demanding &#151; to include weekday evenings and earlier openings on Saturdays. Librarian M. Belle Sweet even began offering a few classes in library science &#151; indeed, she aspired to develop a full-blown library school at the university (a dream that was never realized). She also saved documents of various kinds, which would help lay the foundations of the library's special collections unit. 
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/takingroot/images/book.gif" alt="book spine" %} 
+{% include feature/image.html objectid="/objects/book.gif" alt="book spine" %} 
 
 Meanwhile, Sweet sought out the standard historical works on the Pacific Northwest, including British Columbia. &quot;We bought everything that pertained to Northwest history, insofar as we could wrangle the money,&quot; she later recalled. And at her urging, the university administration formed a faculty library committee in fall 1905 under her direction, to help develop a strategic, long-range approach to collection development.
 
@@ -31,7 +31,7 @@ And with increases in students and holdings, the library was soon pressed for sp
 
 {% include feature/blockquote.html quote="At present there is room for only one hundred chairs. Room is also required for additional shelving, as the space now used is overcrowded and books have to be stored in the basement, where they are being injured by dampness, and where they are difficult to access&#133; In order to provide shelving for new books we should have at least ten floor cases like those now in the Library&#133; Additional tables and chairs for fifty should be provided. By very much overcrowding, these could be placed in the present reading room&#133;" %}
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/takingroot/images/booksopt.gif" alt="old book spines" %}
+{% include feature/image.html objectid="/objects/booksopt.gif" alt="old book spines" %}
 
 But by 1914, the university was coping with general crowding &#151; enrolment had grown by 50 percent in just three years, to nearly 1,000 students. So the push was to finish the south wing of the Administration Building. With that completed in 1921, the library was relocated to the first floor and the basement of the new addition.
         
@@ -43,7 +43,7 @@ During the early 1920s the library also suffered from particularly high staff tu
 
 Nonetheless, by the mid-1920s, a separate library building, with a $300,000 price tag, became a new rallying cry. With enrolment topping 2,000, the <i>Argonaut</i> quoted university president A. H. Upham as saying, &quot;The big need on the campus is more library space and the institution must ask the state legislature for an appropriation for the next biennium in order to build a library building.&quot;
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/takingroot/images/student.gif" alt="man student studying a book" %}
+{% include feature/image.html objectid="/objects/student.gif" alt="man student studying a book" %}
 
 But the administration had a second motive &#151; to free up the library's space in the Administration Building, noted the <i>Argonaut</i> in August 1926: &quot;Why does the University of Idaho need a new library? I. Because there isn't room enough for the students in the present library. II. Because there isn't room enough for the present library in the Administration building.&quot;    
 
@@ -51,7 +51,7 @@ But the administration had a second motive &#151; to free up the library's space
 
 However, the optimism was unwarranted &#151; the building didn't materialize. Even the library's operating budget, poor during the 1920s, grew abyssmal during the Depression. When the university sustained budget cuts, the library was usually among the areas worst hit.
         
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/takingroot/images/frog.gif" alt="a green frog" %}
+{% include feature/image.html objectid="/objects/frog.gif" alt="a green frog" %}
 
 Yet Sweet was feisty, and had no qualms about going straight to the president with her problems. Librarian Nancy Atkinson recalled that when Sweet discovered frogs in the leaky basement, she gathered them up and dropped them on the president's desk, requesting more and better space. Usually, though, she used statistical reports to prove the need for space.
 
@@ -61,7 +61,7 @@ Eventually, in 1936, the university received a $50,000 federal grant to help bui
         
 The library's policy was to hire students for clerical work. And because many students were so poor, the library also bought copies of textbooks and placed them on reserve, which meant the reserve desk was very busy. As well, the library still functioned with &quot;closed stacks&quot;, which meant staff still had to retrieve materials as users requested them, so the loans and periodicals desks were busy, too. In the early 1940s, library faculty voluntarily accepted a 10 percent salary cut to free up more money to hire students (at a time when the university had no retirement program or medical insurance).
         
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/takingroot/images/womanstudent.gif" alt="woman studying a book" %}
+{% include feature/image.html objectid="/objects/womanstudent.gif" alt="woman studying a book" %}
 
 By 1941 the library had seven librarian positions &#151; university librarian (Sweet), assistant librarian, loan librarian, reference librarian, and two catalog librarians &#151; in addition to three assistants. But by 1943, regular staff had dwindled to 4.5 &#151; less than half the complement two years earlier &#151; and librarians were performing multiple roles. Meanwhile, due to wartime enlistment, university enrolment plummeted &#151; from 2,851 in 1940-41 to 953 in 1944-45 (the lowest level since 1920-21). The university's population was buoyed, however, by some on-campus specialized military-training programs &#151; up to 600 Army and 800 Navy personnel at a given time. So the library remained busy. Indeed, half the library's second floor was taken over for military classrooms.
         

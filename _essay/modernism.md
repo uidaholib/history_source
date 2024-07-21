@@ -20,7 +20,7 @@ Renowned for his dedication &#151; and, at times, rigidity &#151; Zimmerman was 
 
 One of the first major problems Zimmerman seized upon was the Idaho newspaper microfilming project, which occupied a large share of his attention for about 10 years, beginning in 1948. He served as chair of the Idaho Library Association's microfilm committee from 1950 to '58 (and then as association president, 1959-60), which allowed him to put the weight of the association behind the project. The upshot was the preservation of invaluable local records (which were otherwise vulnerable to deterioration and fire) for study and research at multiple locations.
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/modernism/images/catopt.gif" alt="a sleeping cat" %}
+{% include feature/image.html objectid="/objects/catopt.gif" alt="a sleeping cat" %}
 
 Among Zimmerman's eccentricities was a love of cats that extended into the library itself. An officer of the American Feline Society, he and his wife kept several cats at home. The cats in the library belonged to a janitor, Fred Skog, a local character whom students were fond of (he earned the honorary title of "dean" and retired in 1952 as "head janitor, emeritus"). Skog kept the cats in the basement to catch mice, but Zimmerman had holes punched into the wall so they could enter the library when they wanted. Staff would arrive at work to find cats dozing on their desks. And at least one periodicals librarian became upset when the mousers defecated on the piles of newspapers. A cataloger, Stan Shepard, created a stir when he attempted to evict the cats from the library.
         
@@ -48,7 +48,7 @@ But by the mid '50s the crowding was extreme. "The university's library has been
         
 {% include feature/blockquote.html quote="With book stacks jammed in so close together that you can scarcely pass through, and with collections located in unfinished basement rooms and corridors, with rather poor lighting, the staff, the faculty, and the students carry on cheerfully... It is recommended that that administration call to the attention of the people of Idaho the inadequacy of the present building..." %}
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/modernism/images/walkeropt.gif" alt="student walking" %}
+{% include feature/image.html objectid="/objects/walkeropt.gif" alt="student walking" %}
 
 But just as a new library building grew once again into a rallying cry, the planned site for the building &#151; on the lawn north of the Administration Building &#151; became a subject of heated debate. Detractors called it a "sacred" spot. University President J.E. Buchanan pointed out that the site had been approved by the Board of Regents in May 1947. "Where else would it go?" he told the Argonaut.
                 
@@ -84,7 +84,7 @@ The new building inspired a wholesale reorganization of the library. In his 1956
         
 The 1950s and '60s saw the library continue to build specialized and rare book collections, often through extraordinary donations. In 1950, Mrs. Lucy Day, widow of Jerome J. Day (who had previously donated his Pacific Northwest Americana collection in 1941), donated her late husband's collection of rare books &#151; some 1,365 volumes, many bound in leather and hand-tooled in gold by Italian craftsmen. Earl Larrison, a zoology professor, gave his collection of first editions of the works of Sir Walter Scott. And noted screenwriter Talbot Jennings, a UI graduate, donated several thousand books. 
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/modernism/images/scottspinesopt.gif" caption="Scott books, now part of Special Collections." alt="spines of old books" %}
+{% include feature/image.html objectid="/objects/scottspinesopt.gif" caption="Scott books, now part of Special Collections." alt="spines of old books" %}
 
 Meantime, the library acquired (and continues to acquire) all titles issued by Caxton Printers of Caldwell, Idaho, representing the publishing history of Idaho's only nationally-known publisher. Zimmerman himself initiated a collection covering the history and culture of the Basque people &#151; because of Idaho's large Basque population, and because nothing comparable existed in the U.S.
         
@@ -98,7 +98,7 @@ Library hours had more than doubled over the years &#151; from 37.5 per week in 
 
 In January 1964 the modern era truly arrived when the library acquired its first dry-process photocopier &#151; a leased Xerox 914 &#151; for public and staff use (but kept behind the loans desk).
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/history/modernism/images/xeroxopt.gif"  caption="Copymania sweeps the nation: a 1961 Xerox ad emphasizes lower cost." alt="a vintage ad with woman showing off xerox" %}
+{% include feature/image.html objectid="/objects/xeroxopt.gif"  caption="Copymania sweeps the nation: a 1961 Xerox ad emphasizes lower cost." alt="a vintage ad with woman showing off xerox" %}
 
 And photocopying skyrocketed. The previous year, staff had made about 1,000 copies on a small portable Contura copier which required freshly-stirred chemicals for each use. By contrast, during 1964, 61,000 copies were churned out on the new Xerox, with users paying a then-hefty 10 cents a copy. Indeed, the volume was high enough to justify continuing to lease the $30,000 Xerox. And there were other benefits, noted the March 1964 <i>Bookmark</i>: &quot;Across the country, research libraries are restricting the loan of their journals and substituting photocopy instead. This saves time, wear and tear on library materials, and allows the borrower a permanent copy.&quot; Staff also hoped the copier would reduce theft and mutilation of books. And the following April, 1965, the library gained its first coin-operated copier (a Vicomatic) in the lobby.
         
