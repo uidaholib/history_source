@@ -2,6 +2,18 @@
 # generic page layout
 layout: default
 ---
-<div class="container my-4">
-  {{ content }}
+
+<div class="container my-5">
+  <div class="essay-title">
+      <h1 class="display-4">{{ page.heading | default: page.title }}</h1>
+      {% if page.byline %}<p class="fs-5 ms-4">{{ page.byline }}</p>{% endif %}
+  </div>
+
+  <div class="essay-content mt-5">
+      {{ content }}
+  </div>
+
+  <div class="text-end my-5">
+      {% if page.next %}<a class="display-6 btn btn-lg btn-outline-dark next-button" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &raquo;</a>{% endif %}
+  </div>
 </div>

@@ -1,7 +1,6 @@
 ---
 title: About
-heading: "In the Beginning: 1892 - 1906"
-order: 6
+heading: About
 layout: essay
 permalink: /about.html
 ---
