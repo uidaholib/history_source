@@ -2,12 +2,17 @@
 
     <div class="row border-bottom border-white pb-4 mb-2">
 
-        <div class="col-md-7 px-4 mt-3">
+        <div class="col-md-8 px-4 mt-3">
 
             <h2 class="h4"><a href="{{ '/' | relative_url }}" class="text-white">{{ site.title }}</a></h2>
             <p class="text-white"><small>{{ site.description }}</small></p>
             <nav>
                 <ul id="footer-nav" class="nav nav-pills ">
+                    {% for e in site.essay %}
+                <li class="nav-item">
+                    <a class="nav-link text-light{% if page.url == e.permalink %} active{% endif %}" href="{{ e.permalink | relative_url }}">{{ e.title }}</a>
+                </li>
+                {% endfor %}
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
                     {% for nav in navItems %}
                     <li class="nav-item">
@@ -24,7 +29,7 @@
 
         </div>
 
-        <div class="col-md-5 mt-3 text-center">
+        <div class="col-md-4 mt-3 text-center">
 
             {% if site.organization-logo-nav %}<p class="text-md-end">
                 <a href="{{ site.organization-link }}" target="_blank" rel="noopener" title="{{ site.organization-name }} home">
